@@ -38,6 +38,12 @@
 							</ul>
 						</div>
 					</div>
+
+
+
+					<div>Chào ban</div>
+
+					
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
